@@ -28,6 +28,10 @@ After creation of Both Virtual Machine , I am creating Traffic Manager and addin
 
  ![image](https://github.com/Sanjana-pal/Azure_project_FRT/assets/124695176/7a8130fe-73eb-43a1-82c0-11296b236d75)
 
+ last I am an priject overview video 
+
+ https://youtu.be/Xxs-ApH834Q
+
 
 
 
