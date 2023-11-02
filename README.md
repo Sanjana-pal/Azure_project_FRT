@@ -32,6 +32,9 @@ After creation of Both Virtual Machine , I am creating Traffic Manager and addin
 
  ![image](https://github.com/Sanjana-pal/Azure_project_FRT/assets/124695176/02c7f6db-54f6-4553-8760-ad2c88e73e0d)
 
+ ![image](https://github.com/Sanjana-pal/Azure_project_FRT/assets/124695176/3f464aa2-74bc-4dad-a9b4-5c5fd787e984)
+
+
  We can check our Appointment is Successfully Done or not.
 
  ![image](https://github.com/Sanjana-pal/Azure_project_FRT/assets/124695176/49e9be72-2461-4bb3-99dd-a22ba853a8b3)
