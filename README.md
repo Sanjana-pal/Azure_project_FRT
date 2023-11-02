@@ -28,10 +28,25 @@ After creation of Both Virtual Machine , I am creating Traffic Manager and addin
 
  ![image](https://github.com/Sanjana-pal/Azure_project_FRT/assets/124695176/7a8130fe-73eb-43a1-82c0-11296b236d75)
 
+ Some Images Related to my Website is Working or not
+
+ ![image](https://github.com/Sanjana-pal/Azure_project_FRT/assets/124695176/02c7f6db-54f6-4553-8760-ad2c88e73e0d)
+
+ We can check our Appointment is Successfully Done or not.
+
+ ![image](https://github.com/Sanjana-pal/Azure_project_FRT/assets/124695176/49e9be72-2461-4bb3-99dd-a22ba853a8b3)
+
+ ![image](https://github.com/Sanjana-pal/Azure_project_FRT/assets/124695176/a2c11fa8-e8cf-4cf9-84aa-c362577db90d)
+
+ yes Successfully Appointment is done.
+ I want say that this an Plug in form I am using.
+
+
+
+
  last I am adding project overview video 
 
- https://youtu.be/Xxs-ApH834Q
-
+ https://www.youtube.com/watch?v=76NdzU2DHWA
 
 
 
